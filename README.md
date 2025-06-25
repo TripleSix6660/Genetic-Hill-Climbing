@@ -53,17 +53,6 @@ The fitness of a given image (an "individual") is a score from 0.0 to 1.0 that i
 - Visual Studio with the "Desktop development with C++" workload
 - Windows SDK
 
-### Building and Running
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/TripleSix6660/Genetic-Hill-Climbing.git)
-    ```
-2.  Open the solution file (`.sln`) in Visual Studio.
-3.  Set the build configuration to **Release** and the architecture to **x64**.
-4.  Build the solution (F7 or `Build > Build Solution`).
-5.  Run the executable from the output directory or directly from Visual Studio (F5).
-6.  Press the **`END`** key to close the application.
-
 ### Configuration
 You can tweak the parameters of the algorithms directly in the source code.
 
